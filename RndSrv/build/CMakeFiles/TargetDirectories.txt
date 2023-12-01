@@ -1,0 +1,8 @@
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/rndsrv.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/edit_cache.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/rebuild_cache.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/list_install_components.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/install.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/install/local.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/install/strip.dir
+/home/evgeny/projects/RndSrvCli/RndSrv/build/CMakeFiles/rndsrv_autogen.dir
